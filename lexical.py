@@ -2,4 +2,8 @@ import re
 
 
 class LexicalAnalyzer:
-    pass
+    # Token row
+    lin_num = 1
+
+    def token_size(self, code):
+        pass
